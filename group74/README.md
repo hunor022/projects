@@ -22,7 +22,7 @@ after navigating to the source directory as well, the mirte simulator as well as
 git clone git@gitlab.ro47003.me.tudelft.nl:students-2526/ro47003_mirte_simulator.git
 ```
 ```bash
-git clone git@gitlab.ro47003.me.tudelft.nl:students-2526/lab4/group74.git
+git clone https://github.com/hunor022/projects/tree/759e998d99fb42633ec0961bc201b73d2902c465/group74
 ```
 after navigating out to the workspace directory, the project can be built, and the overlay can be sourced.
 ```bash
